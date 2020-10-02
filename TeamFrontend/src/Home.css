@@ -1,0 +1,23 @@
+.Home {
+    text-align: center;
+    color: white;
+}
+  
+.home-title { 
+    margin-top: 32px;
+}
+
+.home-subtitle {
+    margin: 16px 0 32px;
+}
+
+.home-actions {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.home-btn {
+    width: 320px;
+    margin-bottom: 16px;
+}

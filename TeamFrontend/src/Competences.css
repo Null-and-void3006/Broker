@@ -1,0 +1,62 @@
+.Competences {
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.comp-title { 
+    margin-top: 16px;
+}
+
+.comp-subtitle {
+    margin: 16px 0 32px;
+}
+
+.comp-error {
+    color: red;
+    margin: 16px 0;
+    height: 24px;
+}
+
+.comp-row {
+    display: flex;
+}
+
+.comp-table {
+    margin-top: 32px;
+}
+
+.comp-name {
+    width: 200px;
+    border-right: 1px solid white;
+    margin: 0 8px;
+}
+
+.empty-col {
+    width: 200px;
+    margin: 0 8px;
+}
+
+.comp-item {
+    margin-right: 16px;
+    width: 160px;
+    color: lightgreen;
+    padding: 8px;
+}
+
+.comp-sub {
+    color: plum;
+}
+
+.comp-sub-list {
+    border-top: 1px solid white;
+}
+
+.comp-compared {
+    width: 100%;
+}
+
+.table-title { 
+    margin-bottom: 16px;
+}

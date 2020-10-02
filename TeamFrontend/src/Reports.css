@@ -1,0 +1,29 @@
+.Reports {
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.report-btn-row {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.report-btn {
+    width: 100%;
+}
+
+.report-btn:not(:first-child) {
+    margin-left: 24px;
+}
+
+.gen-report {
+    margin-top: 24px;
+    width: 100%;
+    max-width: 320px;
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+}
